@@ -97,6 +97,10 @@
       {
         "label": "Support",
         "href": "mailto:hi@mintlify.com"
+      },
+      {
+        "label": "flex",
+        "href": "flex.team"
       }
     ],
     "primary": {
